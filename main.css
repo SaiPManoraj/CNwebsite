@@ -1,0 +1,49 @@
+h1{
+    color: rgb(118, 17, 158);
+    font-size: 32px;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+/* The asterix as the selector means that we want the background colour as pink for the whole page */
+
+.central {text-align: center;
+}
+
+
+
+.container{   background-color: rgb(255, 255, 255, 0.4);
+        padding: 30px;
+        width: 900px;
+        margin-left: 130px;
+       
+       box-shadow: 5px 10px 3px rgba(118, 17, 158, 0.4);
+        }
+
+.pic{   background-color: rgb(255, 255, 255, 0.4);
+        padding: 15px;
+        width: 165px;
+        margin-left:510px;
+        align-items: center;
+        box-shadow: 5px 10px 3px rgba(118, 17, 158, 0.4);
+            }
+
+.bar{  background-color: rgb(255, 255, 255, 0.7);
+    padding: 15px;
+    width: 900px;
+    margin-left: 53.5px; 
+    box-shadow: 5px 5px 3px rgba(118, 17, 158, 0.4);
+        }
+        
+        
+
+body {
+      background-image: url('como1.jpeg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+      font-size: 18px;
+      font: icon;
+      font-family: 'Trebuchet MS', sans-serif;
+        }
+
